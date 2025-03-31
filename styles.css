@@ -19,8 +19,9 @@ body{
     text-align: center;
 }
 @media screen and (max-width: 768px) {
-  containerCard {
+  .containerCard {
      margin:0;
+     padding:0
   }
 }
 .searchBar{
