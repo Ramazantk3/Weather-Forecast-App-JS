@@ -20,8 +20,15 @@ body{
 }
 @media screen and (max-width: 768px) {
   .containerCard {
+     width: 100%;
+     max-width: 100%;
      margin:0;
-     padding:0
+     padding:0;
+  }
+
+  .searchBar input{
+    margin:0;
+    padding:0;
   }
 }
 .searchBar{
